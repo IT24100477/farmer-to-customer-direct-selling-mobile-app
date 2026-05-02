@@ -1,0 +1,24 @@
+# Ignore all mobile code
+mobile/src/
+mobile/App.js
+mobile/app.json
+mobile/babel.config.js
+mobile/package.json
+mobile/package-lock.json
+mobile/theme.js
+
+# Ignore all server code
+server/controllers/
+server/models/
+server/routes/
+server/middleware/
+server/config/
+server/utils/
+server/tests/
+server/server.js
+server/seeder.js
+
+# Ignore runtime files
+node_modules/
+.env
+products.json
