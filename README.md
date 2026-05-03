@@ -1,3 +1,20 @@
+
+1)GitHub Repository Link : https://github.com/IT24100477/farmer-to-customer-direct-selling-mobile-app.git
+
+2)Team Details
+
+Group Number : WMT_IT_38
+
+Member 1: IT24100761 	– Jayathilaka U A I  	– Farmer Product & Inventory Management Module  
+Member 2: IT24102689 	– Thewsara E.J.K.P.D. 	– Order & Payment Management Module   
+Member 3: IT24103409  	– Gunasekara M.A.C.D.  	– Delivery Management Module   
+Member 4: IT24100477 	– Bandara S.M.S.S.S  	– Offers and Promotion Management Module   
+Member 5: IT24100363    – Faazil M.M.M.  	– Feedback & Rating Management Module   
+   
+
+3)Backend URL : https://farm-platform-mobile-application.onrender.com
+
+
 # Farmer Customer Platform - Mobile App
 
 This project is a mobile-first farmer-to-customer marketplace. The Expo React Native app lives in `mobile/`, and the Node/Express/MongoDB API lives in `server/`.
